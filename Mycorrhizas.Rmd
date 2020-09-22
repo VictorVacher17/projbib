@@ -13,11 +13,11 @@ affiliation:
       97310 Kourou,
       France.
   - affsuperscript: 2
-    dptuniv: Department of Ecology, University of Edimburgh
+    dptuniv: UMR EcoFoG, Master EFT.
     address: >
-      Street address,
-      Zip code,
-      Country.
+     Campus Agronomique,
+      97310 Kourou,
+      France.
 corrauthor:
     email: prenom.nom@ecofog.gf
     url: http://www.ecofog.gf/spip.php?article47
