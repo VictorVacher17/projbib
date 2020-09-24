@@ -1,5 +1,5 @@
 ---
-title: "On va tout niquer grâce à rmakdonee madona"
+title: "On va tout niquer grâce à rmakdonee"
 author:
   - name: Elia Dardevet
     authsuperscript: 1*
@@ -13,11 +13,11 @@ affiliation:
       97310 Kourou,
       France.
   - affsuperscript: 2
-    dptuniv: UMR EcoFoG, Master EFT.
+    dptuniv: Department of Ecology, University of Edimburgh
     address: >
-     Campus Agronomique,
-      97310 Kourou,
-      France.
+      Street address,
+      Zip code,
+      Country.
 corrauthor:
     email: prenom.nom@ecofog.gf
     url: http://www.ecofog.gf/spip.php?article47
